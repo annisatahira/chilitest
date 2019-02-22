@@ -1,0 +1,39 @@
+29.08.2018 v1.5
+
+-NEW Katka App one page website teamplate + sections
+-NEW Katka Business Consultant one page website teamplate + sections
+
+20.06.2018 v1.4
+
+-NEW Katka Cleaner one page website teamplate + sections
+-NEW Katka Mechanic one page website teamplate + sections
+-NEW Katka Moving one page website teamplate + sections
+-NEW Katka Restaurant one page website teamplate + sections
+
+19.04.2018 v1.3
+
+-NEW Katka Creative one page website teamplate + sections
+-NEW Katka Fitness one page website teamplate + sections
+-NEW Katka Bicycle repair one page website teamplate + sections
+-NEW Katka Logistics 6 page website teamplate + sections and additonal sections not in the page templates
+-NEW Related posts section templates (for single posts or for sidebar widget placement)
+-IMPROVED Package size due to screenshots is now highly reduced
+
+21.02.2018 v1.2
+
+-NEW Katka Finance 3 page website template pack + sections
+-NEW Katka Music one page website teamplate + sections
+-NEW GeneratePress Premium Site: Katka Finance (finaincial or accountancy type)
+-NEW GeneratePress Premium Site: Katka Music (music, band or event type)
+
+24.01.2018 v1.1
+
+- NEW Author box sections
+- NEW Post navigation sections
+- NEW Every section group has a single .zip file to import in batch
+
+15.11.2017 v1.0
+
+- Katka - Elementor sections template pack initial release
+
+

@@ -1,0 +1,17 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /chilitest/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /chilitest/index.php [L]
+</IfModule>
+php_value upload_max_filesize 512M
+php_value post_max_size 256M
+php_value memory_limit 512M
+php_value max_input_time 180
+php_value max_execution_time 180
+
+# END WordPress

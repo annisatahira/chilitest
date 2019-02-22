@@ -1,0 +1,2 @@
+2019-01-15T04:33:36+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) in C:\xampp\htdocs\chilitest\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpPostStore.php on line 322
+
